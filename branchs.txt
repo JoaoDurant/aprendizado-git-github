@@ -1,0 +1,4 @@
+Usado para programar a parte sem alterar o conteudo principal, podendo contribuir para o desenvolvimento de projetos de uma grande equipe e usado como um ambiente de desenvolvimento fora do programa principal.
+principais comando:
+git brach "nomedabranch" = usado para criar a branch
+git checkout "nomedabranch" = usado para trocar de brach

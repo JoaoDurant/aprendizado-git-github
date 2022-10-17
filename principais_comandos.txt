@@ -1,0 +1,4 @@
+git init #para iniciar o git
+git add "nomedoarquivo" #para adicioanr o arquivo no git
+git commit -m "descrição do commit" #para de fato adicionar o arquivo no git
+git push origin master #para mandar os arquivos commitados para o github

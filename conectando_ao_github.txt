@@ -1,0 +1,2 @@
+o github assumi um importante papel para o desenvolvimento em equipe e para o backup do codigo, comando git e github é possivel criar repositorios e interagir o git com o github.
+desse modo é possivel fazer o backup dos arquivos locais e coloca-los no github
